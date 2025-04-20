@@ -1,0 +1,1001 @@
+age,gender,bmi,disease,severity_level,smoking,alcohol,physical_activity,insurance_type,region,future_expense
+56,Male,23.8,Asthma,1,No,Yes,1,1,Urban,16928
+25,Male,28.1,Asthma,0,Yes,No,0,1,Rural,10373
+78,Male,21.2,Heart Disease,0,No,Yes,1,0,Urban,35286
+40,Male,34.6,None,1,No,Yes,1,1,Urban,5188
+28,Female,18.0,Hypertension,0,No,No,0,1,Urban,13904
+57,Female,24.0,Asthma,1,No,No,0,1,Urban,13602
+41,Male,24.1,Diabetes,0,Yes,Yes,1,1,Urban,16123
+41,Female,26.7,Hypertension,0,No,Yes,0,1,Urban,21201
+61,Female,26.1,Diabetes,0,No,Yes,1,1,Rural,19183
+59,Male,24.3,Diabetes,0,No,Yes,1,0,Urban,23429
+45,Male,26.9,Heart Disease,0,No,No,0,1,Urban,21507
+61,Male,22.9,Diabetes,0,No,No,1,1,Urban,13487
+72,Female,25.9,Hypertension,1,Yes,No,1,1,Urban,19551
+54,Male,27.4,Heart Disease,0,No,Yes,1,1,Urban,21072
+68,Male,23.9,Diabetes,0,No,No,1,1,Rural,13867
+35,Female,33.7,Hypertension,0,Yes,No,0,0,Rural,28321
+21,Male,26.4,Diabetes,0,No,No,1,1,Urban,19192
+75,Female,28.7,None,0,Yes,No,1,1,Urban,7161
+26,Male,29.1,Diabetes,1,No,Yes,0,1,Urban,21673
+61,Male,21.6,Heart Disease,0,Yes,No,1,1,Rural,23048
+78,Female,24.5,Diabetes,0,Yes,No,1,1,Rural,25905
+34,Female,27.5,Heart Disease,0,No,No,1,0,Rural,30275
+53,Female,28.3,Hypertension,1,No,No,1,1,Rural,15769
+79,Female,23.2,Diabetes,0,No,Yes,1,1,Urban,19996
+23,Female,27.3,Asthma,0,No,No,0,1,Urban,11679
+46,Male,20.4,Hypertension,0,No,No,0,0,Rural,24352
+35,Male,26.9,Diabetes,0,Yes,No,1,1,Urban,14707
+65,Female,29.5,None,0,Yes,No,0,1,Urban,5935
+32,Male,25.5,Heart Disease,1,Yes,No,1,1,Urban,43315
+33,Male,24.8,None,1,No,No,1,0,Rural,5144
+62,Male,29.1,Hypertension,0,No,No,1,1,Urban,14083
+43,Female,23.8,Asthma,0,No,No,1,0,Urban,16014
+42,Male,27.4,Diabetes,0,Yes,No,0,1,Rural,20517
+58,Male,18.9,Kidney Disease,0,No,Yes,0,1,Urban,27467
+46,Female,28.3,Heart Disease,0,No,No,1,0,Rural,30899
+52,Female,29.6,Asthma,0,No,No,0,1,Urban,11864
+52,Female,22.6,Kidney Disease,0,Yes,No,0,1,Rural,48548
+24,Male,24.8,None,0,Yes,No,1,1,Rural,4494
+26,Male,20.0,Asthma,0,Yes,No,1,1,Urban,10738
+65,Female,30.4,None,1,No,Yes,0,1,Rural,5662
+72,Female,21.6,None,0,Yes,No,0,1,Rural,7398
+52,Male,21.2,Kidney Disease,1,Yes,Yes,0,1,Urban,62466
+61,Male,29.3,Kidney Disease,1,Yes,No,1,0,Rural,65279
+18,Male,27.2,None,0,Yes,No,1,0,Urban,5466
+52,Male,27.4,Hypertension,0,No,No,1,1,Rural,11372
+18,Male,23.4,Heart Disease,1,Yes,Yes,0,0,Rural,64602
+22,Female,32.0,Hypertension,0,No,No,0,0,Rural,23500
+56,Female,27.4,Diabetes,0,Yes,No,1,0,Rural,30772
+44,Female,15.5,Hypertension,0,No,Yes,1,1,Urban,11635
+59,Male,29.3,Hypertension,1,No,Yes,1,0,Urban,28199
+77,Male,20.3,Diabetes,1,Yes,No,1,1,Rural,23089
+49,Female,30.2,Diabetes,0,No,No,1,1,Rural,13106
+21,Male,25.1,Diabetes,0,No,Yes,1,1,Urban,17153
+62,Female,27.4,None,1,No,No,1,0,Rural,6672
+32,Male,22.8,None,1,Yes,No,1,1,Urban,3634
+49,Male,29.0,Diabetes,1,No,Yes,0,0,Rural,37320
+24,Female,22.8,Hypertension,0,No,Yes,0,1,Rural,12384
+19,Female,24.0,None,0,No,Yes,0,1,Urban,4420
+59,Male,28.0,None,0,No,No,0,1,Urban,4990
+23,Female,30.6,None,0,Yes,No,1,0,Urban,5818
+45,Female,23.9,Diabetes,0,No,No,0,1,Rural,23257
+47,Female,28.1,Heart Disease,0,No,Yes,0,1,Urban,38443
+79,Female,31.5,Heart Disease,0,No,Yes,0,0,Urban,40145
+45,Female,26.7,Diabetes,0,Yes,No,1,1,Rural,20001
+42,Female,23.2,Hypertension,0,No,Yes,0,0,Rural,21796
+74,Female,24.7,Diabetes,0,Yes,Yes,1,0,Rural,28191
+44,Male,31.1,None,0,No,No,1,1,Urban,3883
+58,Female,24.8,Hypertension,0,No,Yes,1,1,Rural,14990
+20,Male,26.0,Hypertension,0,No,No,1,1,Urban,9730
+26,Female,25.1,Kidney Disease,0,Yes,Yes,1,0,Rural,45303
+79,Male,24.4,Asthma,0,No,No,1,1,Urban,10232
+61,Female,24.8,Diabetes,0,No,No,1,1,Urban,16244
+41,Female,25.4,Asthma,0,No,Yes,0,0,Rural,16812
+49,Female,27.6,Heart Disease,0,No,Yes,1,1,Urban,25778
+41,Male,22.2,Hypertension,1,No,Yes,1,1,Rural,16438
+66,Male,31.6,Diabetes,1,No,Yes,1,1,Urban,21138
+75,Male,18.3,Kidney Disease,0,Yes,No,1,1,Rural,44289
+66,Female,25.9,Heart Disease,0,No,Yes,0,1,Urban,31827
+73,Male,26.4,Diabetes,0,Yes,Yes,1,1,Rural,21302
+19,Female,24.3,Heart Disease,0,No,No,1,1,Urban,21929
+45,Female,25.2,Diabetes,0,Yes,Yes,1,0,Urban,32606
+19,Male,27.2,Asthma,1,No,No,1,1,Rural,10196
+70,Male,27.4,Hypertension,0,No,No,1,0,Urban,22672
+49,Male,26.0,Kidney Disease,0,No,Yes,1,0,Rural,49380
+72,Male,30.6,Diabetes,0,No,No,1,1,Urban,18268
+76,Female,29.0,Kidney Disease,0,Yes,No,0,0,Rural,61820
+34,Female,22.8,Diabetes,0,No,No,0,1,Rural,18534
+69,Female,31.5,Diabetes,0,No,No,0,1,Urban,19050
+51,Male,28.3,Diabetes,0,No,No,0,1,Rural,14949
+65,Male,34.8,None,0,No,No,1,0,Rural,7044
+33,Male,24.0,None,0,Yes,Yes,0,0,Urban,7370
+23,Female,29.7,Diabetes,0,Yes,Yes,0,0,Urban,28791
+33,Male,26.4,Asthma,1,Yes,No,0,1,Rural,14610
+76,Male,24.0,None,1,No,No,1,1,Rural,5270
+53,Female,26.0,Heart Disease,1,Yes,No,1,1,Rural,33580
+36,Male,24.5,Diabetes,0,No,Yes,1,1,Rural,21845
+37,Male,21.8,Diabetes,0,No,Yes,0,1,Rural,24754
+50,Female,27.9,None,1,No,No,0,1,Rural,4537
+57,Female,28.5,Diabetes,0,No,Yes,1,1,Rural,17625
+18,Female,25.4,Heart Disease,0,No,Yes,0,0,Urban,46287
+28,Female,22.9,Diabetes,0,No,No,0,1,Urban,18237
+40,Male,24.7,Diabetes,1,No,Yes,0,1,Rural,22241
+48,Female,24.6,Diabetes,0,Yes,Yes,1,1,Rural,26368
+77,Female,28.2,Heart Disease,0,Yes,No,1,1,Rural,24046
+33,Female,26.9,Kidney Disease,0,No,Yes,0,1,Rural,44207
+77,Male,31.2,Hypertension,0,No,No,1,1,Rural,16136
+66,Male,24.7,Asthma,0,Yes,No,0,0,Rural,22581
+29,Female,25.2,Hypertension,1,No,Yes,1,1,Rural,15928
+22,Male,27.0,Diabetes,1,No,Yes,1,1,Urban,25180
+26,Male,29.1,Kidney Disease,0,No,No,1,1,Rural,20923
+58,Male,31.2,Diabetes,0,No,No,1,1,Rural,16286
+20,Male,22.5,None,0,No,Yes,0,1,Rural,3175
+37,Male,27.0,Asthma,1,No,Yes,0,0,Urban,22660
+41,Female,27.4,Heart Disease,1,No,Yes,1,1,Rural,40222
+69,Male,26.9,Diabetes,0,Yes,Yes,1,1,Rural,21117
+52,Male,29.4,Diabetes,0,Yes,Yes,0,1,Urban,29652
+65,Female,27.2,Diabetes,1,No,Yes,0,0,Rural,38066
+46,Female,23.1,None,0,Yes,Yes,1,1,Urban,4643
+35,Male,26.7,Heart Disease,0,Yes,No,1,1,Urban,29101
+71,Male,21.1,None,0,No,Yes,1,1,Urban,5233
+52,Male,21.2,Heart Disease,1,No,Yes,0,1,Rural,45986
+50,Female,28.6,Diabetes,0,No,Yes,1,1,Urban,14308
+21,Male,23.0,Heart Disease,0,No,Yes,0,1,Urban,29490
+37,Female,21.5,Heart Disease,0,No,No,0,1,Rural,34745
+73,Male,29.9,Diabetes,0,Yes,No,1,1,Urban,21497
+34,Female,27.7,None,0,No,No,1,1,Rural,4281
+50,Male,28.5,Diabetes,0,Yes,No,1,1,Urban,18745
+39,Male,38.2,Kidney Disease,0,No,No,1,1,Rural,21846
+72,Female,28.2,Heart Disease,0,No,Yes,1,0,Rural,35196
+55,Female,20.0,None,0,No,Yes,0,1,Rural,6100
+62,Female,29.6,Hypertension,0,No,Yes,1,0,Urban,20438
+44,Female,25.9,Diabetes,0,Yes,No,1,1,Rural,18367
+51,Female,31.2,Hypertension,1,Yes,Yes,0,1,Rural,29308
+64,Female,20.6,None,0,No,No,1,0,Rural,6568
+50,Male,28.5,Hypertension,0,No,No,1,1,Urban,13465
+36,Male,22.6,Hypertension,0,Yes,No,1,1,Rural,15060
+21,Male,26.2,Diabetes,0,Yes,No,0,1,Urban,15786
+34,Male,25.5,Asthma,1,No,No,1,1,Rural,14455
+61,Female,25.1,Diabetes,0,Yes,Yes,0,0,Rural,37078
+58,Male,28.9,Asthma,0,No,No,1,1,Urban,9317
+54,Female,25.5,Diabetes,0,Yes,Yes,0,1,Rural,18615
+70,Female,29.0,Hypertension,0,No,Yes,1,1,Urban,15716
+48,Male,22.6,Hypertension,0,No,Yes,0,0,Rural,26578
+40,Male,19.9,Hypertension,0,No,Yes,1,0,Rural,23007
+50,Female,22.3,Diabetes,0,Yes,Yes,1,1,Urban,16519
+42,Female,23.9,Heart Disease,1,No,No,0,1,Urban,31617
+59,Male,26.7,Heart Disease,0,No,No,1,1,Rural,31501
+57,Male,27.5,Hypertension,0,No,Yes,1,1,Rural,16385
+63,Male,26.9,Hypertension,0,Yes,No,0,1,Rural,23955
+39,Male,22.8,Asthma,0,No,No,1,0,Urban,15784
+40,Female,26.2,Kidney Disease,1,Yes,No,1,1,Urban,38696
+19,Male,21.4,Asthma,0,No,No,1,1,Urban,8582
+43,Female,29.5,Diabetes,0,Yes,No,1,1,Rural,18425
+60,Male,30.3,None,0,No,No,1,1,Rural,4659
+71,Female,20.5,Hypertension,0,No,Yes,1,1,Rural,15511
+72,Female,22.2,Diabetes,0,Yes,No,0,1,Rural,21861
+43,Male,27.2,None,0,No,Yes,1,1,Urban,5116
+30,Male,27.0,Diabetes,0,No,Yes,0,0,Urban,30685
+77,Male,28.1,Diabetes,0,Yes,No,1,1,Rural,16843
+62,Male,41.4,Heart Disease,1,No,Yes,0,1,Urban,35842
+37,Male,31.3,None,0,No,No,0,1,Urban,3989
+33,Female,30.0,Diabetes,0,No,Yes,1,0,Rural,22300
+31,Female,24.7,Asthma,0,Yes,No,0,1,Urban,16673
+45,Female,29.0,Hypertension,0,Yes,Yes,1,1,Rural,18550
+51,Female,26.7,None,0,No,No,1,1,Rural,4101
+39,Female,22.6,Hypertension,0,No,No,0,1,Urban,19330
+68,Female,35.3,Hypertension,1,No,No,1,1,Urban,16729
+78,Female,18.5,None,0,Yes,No,1,1,Urban,5805
+39,Male,24.3,Kidney Disease,0,No,Yes,0,1,Rural,35429
+69,Female,26.3,Diabetes,0,Yes,No,1,1,Urban,19629
+59,Female,24.1,Diabetes,0,Yes,Yes,1,0,Urban,27423
+77,Male,30.4,None,0,No,Yes,0,1,Urban,6262
+54,Female,32.2,Hypertension,1,No,No,1,1,Urban,15936
+61,Female,26.5,Asthma,0,No,No,1,0,Urban,16995
+61,Female,23.1,Heart Disease,0,No,No,1,0,Urban,38993
+62,Male,26.9,Kidney Disease,0,No,Yes,1,1,Rural,40377
+49,Female,35.6,Kidney Disease,1,No,Yes,0,0,Rural,67518
+72,Male,33.4,Hypertension,1,Yes,No,0,0,Rural,35022
+57,Female,17.9,Hypertension,0,No,No,1,1,Urban,11337
+34,Female,26.7,Asthma,0,No,No,1,1,Rural,9491
+73,Female,24.2,Heart Disease,0,Yes,No,0,1,Rural,26426
+72,Male,19.3,Diabetes,0,No,Yes,0,0,Urban,26929
+43,Female,28.0,Asthma,0,No,No,1,1,Rural,13060
+70,Male,29.5,Diabetes,0,Yes,No,1,0,Urban,26135
+18,Male,24.7,Diabetes,0,No,No,1,1,Urban,11391
+51,Female,24.7,Hypertension,0,Yes,No,0,1,Urban,17727
+49,Female,33.1,Hypertension,0,Yes,No,0,1,Urban,17879
+57,Female,27.6,Diabetes,0,No,No,1,0,Urban,25928
+62,Female,27.5,Kidney Disease,0,No,No,0,0,Urban,52275
+39,Male,32.6,Hypertension,0,No,No,1,0,Rural,21278
+46,Male,19.9,Kidney Disease,1,No,No,1,1,Rural,32447
+33,Female,24.1,None,0,No,No,1,1,Rural,4123
+68,Male,25.1,None,0,No,Yes,1,1,Rural,5203
+43,Female,33.5,Diabetes,1,No,No,0,0,Urban,34255
+43,Male,13.0,None,0,No,No,0,1,Rural,3740
+50,Male,21.9,Diabetes,1,Yes,Yes,1,0,Rural,38607
+79,Male,18.0,None,0,No,Yes,1,0,Rural,7740
+27,Female,20.8,Asthma,0,No,Yes,1,1,Rural,9888
+71,Female,24.2,Hypertension,0,No,Yes,1,1,Rural,16986
+48,Female,26.5,Diabetes,0,No,No,1,0,Rural,20945
+27,Male,26.2,None,0,Yes,No,0,1,Rural,5286
+18,Male,35.4,Diabetes,0,No,No,0,1,Rural,18112
+73,Male,22.1,Heart Disease,0,No,Yes,1,1,Rural,28463
+41,Male,27.8,Hypertension,0,No,No,1,1,Rural,10834
+33,Male,25.2,Heart Disease,1,No,Yes,1,1,Rural,39756
+49,Male,26.2,Diabetes,0,No,No,0,0,Rural,23986
+44,Female,28.4,Diabetes,0,Yes,Yes,1,1,Urban,26282
+52,Female,30.1,Hypertension,0,Yes,No,0,1,Rural,17939
+77,Female,26.9,None,0,No,No,0,1,Urban,7007
+60,Male,24.9,Asthma,0,No,No,1,0,Urban,16897
+54,Male,30.5,None,0,Yes,No,0,1,Urban,6765
+57,Female,27.8,Diabetes,1,No,Yes,0,0,Rural,37684
+27,Male,23.3,Kidney Disease,0,No,No,1,0,Urban,43799
+29,Male,22.5,Heart Disease,0,No,Yes,0,0,Urban,46750
+48,Male,24.3,Diabetes,1,No,Yes,1,1,Urban,26399
+67,Male,25.6,Diabetes,0,No,No,1,1,Urban,17868
+52,Female,30.9,Hypertension,0,Yes,Yes,1,1,Urban,22701
+46,Male,20.8,None,1,Yes,Yes,1,1,Urban,4574
+43,Male,21.5,Kidney Disease,0,Yes,Yes,0,1,Urban,30995
+68,Female,31.1,Asthma,0,Yes,No,1,0,Urban,20563
+58,Male,33.8,Diabetes,1,No,No,1,0,Rural,30664
+67,Female,25.8,Hypertension,1,No,Yes,1,1,Rural,23170
+62,Female,27.8,Diabetes,1,Yes,No,1,1,Rural,22564
+53,Male,25.7,Diabetes,1,No,Yes,1,1,Urban,20311
+27,Male,32.7,Diabetes,0,No,No,1,0,Rural,20081
+52,Male,18.5,Diabetes,0,No,No,1,1,Rural,12905
+66,Male,23.5,None,0,No,Yes,1,1,Rural,6155
+66,Male,27.5,Hypertension,1,No,No,1,1,Urban,21235
+56,Male,30.2,Heart Disease,0,No,No,0,1,Rural,27331
+49,Female,26.9,Heart Disease,0,Yes,Yes,0,0,Urban,55382
+54,Female,29.1,None,0,No,No,0,0,Rural,7073
+40,Male,21.6,Hypertension,0,No,No,0,0,Urban,19948
+42,Female,23.5,None,1,No,Yes,1,1,Urban,4955
+66,Female,20.6,None,0,No,Yes,0,0,Urban,7918
+79,Female,16.2,Diabetes,1,No,No,1,1,Rural,19586
+30,Male,25.7,Diabetes,1,No,No,1,1,Rural,17421
+76,Female,27.6,Kidney Disease,0,No,Yes,0,1,Urban,37378
+48,Female,25.5,Hypertension,0,No,No,1,1,Rural,13275
+69,Male,33.6,Hypertension,0,No,Yes,0,0,Rural,23458
+70,Female,30.3,None,1,No,No,0,0,Urban,7909
+22,Female,22.0,None,0,No,Yes,1,0,Urban,5010
+76,Male,21.1,Heart Disease,1,No,Yes,0,1,Rural,35933
+38,Female,29.1,None,0,Yes,No,1,1,Urban,4123
+74,Female,28.7,Heart Disease,0,Yes,No,1,1,Rural,31111
+56,Female,26.0,None,0,Yes,No,1,1,Urban,6130
+56,Male,22.4,Hypertension,0,No,No,1,1,Urban,13582
+31,Female,17.6,Diabetes,1,Yes,Yes,1,1,Urban,22448
+40,Male,33.1,Heart Disease,0,No,Yes,1,1,Urban,25493
+46,Male,22.7,Hypertension,0,No,Yes,0,1,Rural,13481
+29,Female,24.7,Diabetes,0,No,Yes,0,1,Urban,24441
+26,Female,28.5,None,0,Yes,Yes,0,1,Rural,4255
+78,Male,31.4,Hypertension,1,No,Yes,0,0,Urban,32842
+55,Female,27.0,Hypertension,0,No,Yes,1,1,Rural,12530
+59,Male,24.0,Hypertension,0,No,No,0,1,Urban,15634
+26,Male,28.2,Kidney Disease,0,No,No,0,1,Urban,40376
+22,Male,29.5,Diabetes,0,No,Yes,0,1,Rural,18110
+46,Male,20.2,None,0,No,No,1,1,Urban,4656
+69,Male,20.4,Diabetes,0,Yes,No,1,1,Rural,19452
+34,Female,23.3,Diabetes,0,No,No,1,0,Urban,24649
+48,Female,31.4,None,1,Yes,Yes,1,0,Rural,7592
+36,Female,27.2,Asthma,0,No,No,1,1,Rural,12686
+44,Female,31.9,Asthma,0,No,Yes,1,1,Rural,11071
+27,Male,24.8,Heart Disease,1,No,No,0,1,Urban,30894
+45,Female,26.0,Diabetes,1,Yes,Yes,1,1,Rural,30940
+79,Male,27.3,Asthma,0,No,Yes,1,1,Rural,13959
+18,Female,22.7,Diabetes,0,No,No,1,1,Urban,15331
+20,Male,28.0,Hypertension,0,No,Yes,1,0,Urban,18290
+77,Male,26.4,Diabetes,1,No,No,1,0,Rural,31392
+66,Male,26.2,Hypertension,0,Yes,No,0,0,Urban,24786
+70,Female,22.6,Hypertension,0,No,No,1,1,Urban,12128
+23,Female,18.4,Hypertension,0,No,No,0,0,Urban,19002
+33,Female,28.4,Asthma,0,No,No,1,0,Urban,15652
+71,Female,29.4,Hypertension,1,Yes,No,1,1,Rural,25414
+74,Male,21.7,Asthma,0,Yes,No,1,1,Rural,13189
+35,Male,24.1,None,1,No,Yes,0,0,Urban,6473
+32,Male,23.8,None,0,Yes,No,1,1,Urban,3664
+48,Male,31.7,Kidney Disease,0,Yes,Yes,0,1,Rural,41701
+28,Female,23.2,Kidney Disease,0,No,No,1,1,Urban,26246
+29,Female,22.5,Asthma,0,No,Yes,0,1,Urban,12875
+70,Male,25.1,Heart Disease,0,Yes,No,1,1,Rural,38003
+25,Male,27.9,Heart Disease,0,Yes,Yes,0,1,Urban,32462
+25,Female,21.8,None,0,Yes,Yes,0,0,Urban,6904
+75,Male,23.0,Diabetes,0,Yes,No,1,1,Urban,25710
+54,Female,22.5,None,0,No,Yes,1,1,Rural,4425
+58,Female,24.7,Asthma,0,Yes,Yes,1,0,Rural,21411
+34,Female,19.4,None,0,No,No,1,1,Rural,3032
+26,Female,29.8,Kidney Disease,0,No,No,1,0,Urban,43944
+45,Male,23.7,Hypertension,1,Yes,Yes,1,1,Urban,25879
+65,Male,29.0,None,0,No,No,0,0,Urban,7620
+19,Male,31.9,Diabetes,0,No,No,1,1,Urban,11657
+27,Male,30.7,Hypertension,0,No,Yes,1,1,Urban,11241
+49,Female,24.1,Diabetes,1,No,No,1,1,Urban,24123
+64,Male,27.2,None,0,No,No,1,1,Urban,5766
+42,Female,21.6,None,0,Yes,Yes,0,0,Urban,7748
+39,Female,27.0,Heart Disease,1,Yes,Yes,1,1,Rural,47310
+50,Male,30.9,Diabetes,1,No,Yes,1,1,Urban,20317
+51,Female,27.4,Hypertension,0,No,No,1,1,Urban,14722
+22,Female,33.6,Heart Disease,0,Yes,No,0,1,Rural,40358
+55,Male,26.7,None,0,No,Yes,1,1,Rural,4601
+70,Female,29.2,Hypertension,0,No,No,0,0,Urban,21676
+54,Female,23.4,Heart Disease,0,No,No,0,1,Rural,21852
+38,Female,31.4,Diabetes,0,No,No,1,0,Rural,25092
+31,Male,23.4,None,0,No,Yes,1,1,Rural,3302
+62,Male,22.9,Heart Disease,1,No,No,0,1,Urban,32587
+30,Female,27.3,None,0,Yes,No,1,0,Urban,6069
+57,Male,25.0,Diabetes,0,No,Yes,1,0,Urban,28300
+49,Female,26.0,Hypertension,0,No,No,1,1,Urban,11180
+71,Male,24.3,Diabetes,1,Yes,Yes,1,1,Rural,24649
+71,Female,23.9,Heart Disease,0,No,No,1,0,Rural,39517
+18,Female,29.6,None,0,No,No,1,0,Urban,4538
+71,Female,27.7,Hypertension,0,No,No,1,1,Urban,14491
+64,Male,31.4,Kidney Disease,0,No,Yes,1,1,Urban,32692
+40,Female,28.6,Asthma,0,No,Yes,0,1,Rural,16008
+19,Female,31.5,Asthma,1,No,Yes,1,1,Urban,11393
+28,Male,24.3,None,0,No,Yes,0,1,Urban,3629
+77,Female,24.6,Hypertension,0,No,No,1,1,Rural,14698
+51,Male,30.2,Asthma,0,Yes,Yes,1,0,Rural,21226
+47,Female,19.0,Asthma,0,No,No,0,0,Rural,18380
+32,Male,29.5,Diabetes,0,No,Yes,1,1,Rural,17835
+69,Male,25.5,Diabetes,0,No,No,1,0,Rural,21965
+74,Male,32.0,Kidney Disease,0,No,Yes,1,1,Urban,31450
+77,Female,26.3,None,0,No,No,1,1,Rural,5389
+47,Female,29.9,Heart Disease,0,Yes,No,1,1,Urban,22597
+22,Female,27.3,Kidney Disease,0,Yes,No,0,1,Urban,28019
+46,Male,19.2,Asthma,0,No,No,1,1,Urban,8426
+41,Female,25.8,Heart Disease,0,No,No,0,1,Urban,21274
+22,Female,26.0,Hypertension,0,Yes,Yes,1,1,Rural,15698
+30,Male,27.6,Heart Disease,0,No,Yes,1,0,Urban,41328
+79,Female,20.8,Asthma,0,No,No,1,1,Rural,12724
+68,Male,28.7,Diabetes,1,Yes,No,1,1,Rural,22891
+64,Male,21.6,Asthma,1,No,No,1,1,Urban,15838
+73,Female,28.0,Asthma,0,No,No,0,1,Urban,11210
+42,Male,25.7,Heart Disease,0,No,No,1,1,Urban,18621
+46,Female,29.8,Diabetes,0,Yes,No,1,0,Rural,24944
+49,Female,24.2,None,1,No,No,1,1,Urban,4926
+36,Female,24.1,Heart Disease,1,No,Yes,1,0,Rural,49773
+38,Male,23.9,Heart Disease,1,No,No,1,0,Rural,45367
+78,Male,22.8,Heart Disease,1,Yes,Yes,1,1,Urban,49134
+39,Female,20.3,None,0,No,Yes,0,0,Urban,6559
+51,Female,25.2,Heart Disease,0,No,No,1,1,Urban,25056
+66,Female,33.9,Diabetes,1,No,No,1,0,Rural,31067
+26,Male,26.1,None,0,No,No,1,1,Urban,3833
+43,Male,28.1,None,0,No,No,1,1,Urban,3743
+64,Female,30.8,Heart Disease,0,No,Yes,0,0,Rural,39374
+73,Male,25.6,None,0,No,Yes,0,0,Rural,8418
+18,Male,25.1,Kidney Disease,0,No,No,1,0,Rural,43403
+25,Female,23.1,None,1,No,Yes,0,1,Urban,4693
+32,Male,28.3,Kidney Disease,0,No,No,0,0,Urban,40449
+64,Female,24.9,Hypertension,0,No,Yes,0,0,Rural,22947
+43,Male,16.8,Diabetes,0,No,Yes,0,0,Rural,31029
+45,Male,23.5,Kidney Disease,1,No,No,1,1,Urban,32505
+62,Male,17.2,Hypertension,0,No,No,1,1,Urban,14966
+43,Male,28.3,Kidney Disease,1,No,Yes,0,0,Rural,66999
+63,Female,27.2,Heart Disease,0,No,No,1,1,Rural,19716
+60,Male,22.1,None,0,No,No,1,1,Rural,5413
+75,Male,26.3,Kidney Disease,0,Yes,Yes,1,1,Urban,29589
+55,Male,19.6,Hypertension,0,No,Yes,1,1,Rural,12308
+42,Male,26.8,Hypertension,0,Yes,No,0,1,Urban,14424
+72,Male,25.3,Diabetes,0,No,No,1,1,Rural,14109
+74,Male,25.8,None,0,Yes,No,1,1,Rural,5824
+34,Female,23.4,Asthma,1,No,No,1,1,Urban,14392
+61,Female,21.7,Diabetes,0,No,No,1,1,Rural,16151
+42,Female,26.9,Hypertension,0,No,Yes,1,0,Rural,23317
+21,Male,29.6,Hypertension,0,No,Yes,1,0,Urban,22348
+27,Male,26.0,Asthma,0,Yes,No,0,1,Rural,10410
+64,Female,31.9,Heart Disease,0,No,Yes,1,0,Urban,43157
+53,Male,35.5,Heart Disease,0,Yes,Yes,1,1,Urban,40465
+25,Female,30.1,Hypertension,0,Yes,No,1,1,Rural,14735
+57,Female,21.9,Kidney Disease,1,No,Yes,1,1,Rural,47897
+58,Male,25.2,None,0,No,Yes,1,1,Rural,4706
+54,Male,31.6,None,0,Yes,Yes,1,1,Urban,5298
+51,Female,20.8,None,0,No,Yes,0,0,Urban,7174
+76,Male,20.4,Diabetes,0,Yes,No,0,0,Rural,35237
+39,Male,28.3,None,0,Yes,No,1,1,Rural,4149
+38,Female,24.2,Kidney Disease,0,No,No,0,1,Urban,24526
+21,Male,23.5,Diabetes,0,No,No,1,1,Rural,15505
+47,Male,23.6,Kidney Disease,1,No,Yes,0,1,Rural,53808
+48,Female,22.5,None,1,Yes,Yes,1,1,Urban,6025
+41,Female,16.0,Hypertension,0,No,Yes,1,1,Rural,13876
+53,Male,28.7,None,0,No,No,1,1,Rural,5261
+41,Male,25.0,Diabetes,1,Yes,Yes,1,1,Urban,23170
+45,Female,22.4,Hypertension,0,No,Yes,1,1,Rural,18800
+28,Male,26.9,Kidney Disease,0,Yes,Yes,1,1,Rural,34277
+66,Female,27.1,Heart Disease,0,Yes,No,1,1,Rural,37863
+47,Male,28.0,Diabetes,0,Yes,No,1,1,Rural,20140
+74,Female,22.1,None,0,No,No,0,0,Rural,7863
+19,Female,34.2,Diabetes,0,Yes,No,1,0,Urban,29126
+68,Male,32.5,Heart Disease,0,No,No,1,0,Rural,39625
+62,Female,23.3,None,0,No,Yes,0,1,Rural,6549
+71,Female,28.3,Asthma,0,No,No,1,0,Urban,15149
+21,Female,27.1,None,0,No,No,1,1,Rural,2613
+66,Female,15.0,Hypertension,1,No,No,1,0,Rural,25700
+29,Female,27.0,Diabetes,0,No,Yes,1,1,Urban,16180
+55,Male,22.4,Asthma,0,No,No,0,1,Rural,11798
+54,Female,29.1,Hypertension,1,No,No,0,1,Rural,18021
+30,Female,26.0,Asthma,0,No,No,1,0,Rural,13030
+60,Female,19.1,Hypertension,0,No,Yes,1,1,Rural,12543
+73,Female,31.0,Hypertension,0,Yes,Yes,1,1,Urban,15590
+27,Male,34.0,Hypertension,0,No,No,1,1,Rural,13720
+19,Female,33.9,Diabetes,0,No,Yes,0,0,Rural,24717
+30,Male,23.7,Hypertension,0,Yes,No,1,1,Rural,12201
+54,Female,27.0,Diabetes,0,No,Yes,1,1,Urban,18860
+26,Female,28.1,Heart Disease,0,No,No,0,1,Urban,27493
+41,Female,31.8,None,0,No,No,1,1,Urban,4754
+55,Female,18.9,None,0,No,No,1,1,Urban,4067
+66,Female,21.9,Heart Disease,1,No,No,0,1,Urban,43107
+22,Male,27.5,Hypertension,0,No,No,1,0,Urban,20275
+26,Male,23.6,Asthma,0,No,No,1,1,Rural,12078
+51,Male,28.0,Hypertension,0,Yes,No,0,1,Urban,14910
+46,Female,32.3,Diabetes,1,Yes,Yes,1,1,Rural,23639
+25,Female,28.1,None,0,Yes,No,0,1,Urban,3893
+77,Male,28.8,Asthma,0,No,Yes,1,1,Rural,11044
+47,Female,24.2,Hypertension,0,No,No,0,0,Rural,20376
+36,Female,27.8,Hypertension,0,No,Yes,0,1,Urban,13134
+76,Female,29.0,None,0,Yes,Yes,1,1,Urban,6320
+42,Male,27.0,Heart Disease,1,No,No,1,1,Urban,36660
+62,Female,32.8,Heart Disease,0,No,No,0,1,Rural,22534
+25,Male,29.3,Heart Disease,1,No,No,1,1,Rural,35879
+56,Male,28.2,Heart Disease,1,No,Yes,0,1,Rural,35146
+78,Female,27.2,None,1,No,No,1,0,Rural,7466
+55,Female,16.7,Hypertension,0,No,No,1,0,Rural,18001
+50,Male,32.0,Diabetes,0,No,No,0,1,Urban,18115
+42,Male,21.2,Diabetes,0,Yes,No,0,1,Rural,26946
+19,Male,19.5,Kidney Disease,1,No,No,1,1,Rural,31085
+31,Male,16.8,Diabetes,1,Yes,No,1,1,Rural,27644
+20,Male,31.7,Heart Disease,0,Yes,No,1,0,Urban,44701
+24,Male,29.7,Diabetes,1,No,No,0,0,Urban,33191
+69,Male,30.4,Heart Disease,0,No,No,0,1,Urban,29712
+32,Female,25.9,Hypertension,0,Yes,No,1,1,Rural,14959
+47,Male,30.2,Asthma,0,No,No,1,0,Urban,16406
+56,Female,29.3,None,0,No,No,0,1,Urban,4879
+44,Female,30.0,Hypertension,0,No,Yes,1,1,Urban,15810
+72,Male,24.6,Asthma,0,No,No,0,1,Urban,12714
+19,Female,24.3,Hypertension,0,No,No,1,0,Rural,16429
+27,Female,32.6,Diabetes,0,No,No,1,0,Rural,20078
+71,Male,25.8,Kidney Disease,0,No,No,1,0,Rural,37074
+55,Female,17.0,None,0,No,No,1,0,Rural,6010
+62,Female,28.7,None,0,No,Yes,1,1,Rural,5011
+41,Female,26.2,Asthma,0,No,No,1,1,Urban,9826
+25,Male,36.0,Hypertension,0,No,No,0,1,Rural,11810
+22,Male,15.7,Heart Disease,0,Yes,Yes,0,0,Urban,53696
+62,Male,24.5,None,0,No,No,1,0,Urban,6585
+19,Female,26.1,None,0,No,No,1,0,Urban,4483
+53,Male,25.5,Kidney Disease,1,No,Yes,1,1,Rural,36145
+53,Male,28.9,Asthma,0,No,No,1,0,Urban,14267
+37,Female,32.3,Diabetes,1,Yes,Yes,1,0,Urban,38269
+28,Female,25.6,Hypertension,0,No,No,0,1,Urban,18870
+23,Male,27.3,None,1,No,Yes,1,1,Urban,4119
+25,Male,19.3,None,0,No,Yes,1,1,Urban,2879
+60,Female,23.6,Heart Disease,0,Yes,No,0,0,Rural,52083
+29,Male,24.9,None,0,Yes,No,1,1,Urban,4747
+57,Male,24.2,Diabetes,0,Yes,Yes,1,1,Rural,26806
+77,Male,22.5,Hypertension,0,Yes,Yes,1,0,Rural,24375
+65,Female,26.8,None,0,Yes,No,1,1,Rural,6604
+21,Female,30.8,Kidney Disease,0,No,No,0,1,Urban,23874
+48,Female,28.7,None,1,No,No,0,0,Rural,6761
+75,Female,23.5,Diabetes,0,No,Yes,1,1,Rural,19805
+53,Female,24.0,Diabetes,0,Yes,Yes,1,0,Rural,32970
+71,Male,24.1,None,0,No,Yes,1,0,Rural,7523
+71,Female,29.8,Diabetes,0,Yes,No,1,0,Rural,31594
+72,Female,28.2,None,1,Yes,Yes,1,1,Rural,7396
+64,Female,20.6,Hypertension,0,No,Yes,1,1,Urban,19696
+26,Male,22.8,Diabetes,1,No,No,1,1,Urban,17134
+74,Male,28.6,None,0,Yes,No,0,1,Urban,6358
+70,Male,22.3,Diabetes,1,No,No,1,1,Rural,25119
+69,Female,27.0,Heart Disease,0,No,No,0,1,Urban,27885
+42,Female,19.8,Hypertension,0,Yes,Yes,1,1,Rural,13704
+44,Female,14.9,None,0,Yes,Yes,1,0,Urban,6897
+34,Female,24.2,Hypertension,0,No,No,1,1,Urban,10376
+76,Male,26.3,Hypertension,1,No,No,0,1,Rural,24603
+68,Female,27.9,Heart Disease,0,No,Yes,0,0,Urban,48862
+69,Male,19.9,Heart Disease,1,Yes,No,0,0,Urban,62547
+23,Female,23.1,Diabetes,0,Yes,Yes,0,1,Rural,28013
+43,Female,29.6,Hypertension,0,Yes,No,1,1,Rural,17108
+45,Male,26.3,Hypertension,0,No,Yes,0,0,Urban,22039
+34,Male,20.1,Diabetes,0,No,No,0,1,Urban,16958
+37,Male,35.1,Diabetes,0,Yes,No,1,1,Rural,18293
+39,Female,19.5,Diabetes,1,Yes,No,1,0,Urban,35085
+45,Female,20.6,None,0,Yes,No,0,1,Rural,4668
+24,Female,26.6,Heart Disease,0,Yes,Yes,0,0,Rural,43248
+18,Male,22.5,Heart Disease,0,No,No,1,1,Rural,17325
+68,Female,19.6,Diabetes,0,No,No,1,1,Rural,13738
+76,Male,23.7,Asthma,1,No,No,1,1,Urban,16501
+47,Male,30.5,Hypertension,0,No,Yes,1,1,Urban,15975
+46,Male,20.3,Heart Disease,0,Yes,No,1,1,Urban,29459
+33,Male,31.9,Diabetes,1,No,No,0,1,Rural,27037
+57,Male,19.4,Hypertension,0,No,Yes,1,1,Urban,16142
+68,Male,28.8,Heart Disease,0,No,No,0,1,Urban,22714
+64,Male,35.7,Asthma,1,No,Yes,1,0,Rural,21601
+66,Male,33.8,Diabetes,1,No,No,0,1,Rural,28744
+67,Male,32.4,Kidney Disease,0,Yes,No,0,1,Urban,39872
+21,Male,25.9,Kidney Disease,1,No,No,1,1,Urban,41977
+18,Male,23.7,Heart Disease,0,No,No,0,1,Rural,33861
+20,Female,25.1,Kidney Disease,0,Yes,Yes,0,1,Rural,29953
+49,Female,28.1,Diabetes,0,No,Yes,1,0,Urban,23043
+51,Male,24.8,None,0,No,No,0,1,Urban,4494
+77,Female,30.9,None,0,No,No,1,1,Rural,5527
+20,Female,17.3,Hypertension,0,No,Yes,0,1,Rural,12019
+41,Female,26.1,None,0,No,No,1,1,Urban,3583
+25,Male,20.4,Kidney Disease,0,Yes,No,1,0,Urban,41612
+71,Female,29.3,Heart Disease,0,Yes,No,0,1,Urban,32554
+68,Female,18.5,Kidney Disease,0,No,Yes,0,1,Urban,27955
+50,Female,32.9,Diabetes,0,Yes,No,1,1,Rural,15637
+52,Female,27.8,Hypertension,0,Yes,No,0,0,Urban,24134
+49,Male,26.1,Heart Disease,1,No,No,1,1,Rural,27983
+63,Female,26.2,Heart Disease,0,Yes,No,0,1,Urban,32061
+60,Female,24.9,Diabetes,0,No,Yes,0,1,Rural,19872
+72,Male,21.8,Hypertension,0,Yes,No,1,0,Urban,26724
+65,Female,26.9,Kidney Disease,0,Yes,No,1,1,Rural,27007
+50,Male,23.1,Heart Disease,0,Yes,Yes,1,1,Rural,30193
+40,Female,27.3,Heart Disease,0,No,Yes,1,1,Urban,33569
+35,Male,29.5,Hypertension,0,No,No,1,1,Urban,16865
+19,Male,26.9,Kidney Disease,0,Yes,No,1,1,Urban,31187
+28,Male,29.0,Diabetes,0,No,Yes,1,0,Rural,26970
+59,Male,24.2,None,0,No,No,1,0,Urban,6426
+72,Female,30.4,Hypertension,0,No,No,1,1,Rural,15862
+29,Female,24.1,Hypertension,1,Yes,No,0,1,Urban,26059
+47,Male,30.1,Heart Disease,1,Yes,No,0,1,Rural,37453
+26,Male,19.0,Kidney Disease,0,No,No,1,1,Rural,27620
+69,Male,23.8,Kidney Disease,1,No,No,1,1,Rural,44314
+75,Male,23.8,Asthma,0,Yes,No,0,1,Urban,14688
+27,Male,27.6,Heart Disease,1,Yes,Yes,0,1,Urban,52128
+47,Female,29.9,Heart Disease,1,Yes,Yes,0,1,Urban,53197
+49,Female,25.9,Kidney Disease,0,No,No,0,1,Urban,25127
+34,Female,35.1,Diabetes,0,Yes,No,1,1,Rural,24023
+26,Female,14.9,Hypertension,0,No,No,1,1,Rural,9697
+57,Male,22.8,Diabetes,1,Yes,No,1,1,Urban,29124
+26,Female,32.5,Heart Disease,1,No,No,1,1,Urban,36025
+71,Female,22.0,Diabetes,0,No,Yes,0,1,Urban,20335
+43,Male,33.4,Kidney Disease,1,No,No,1,1,Urban,43302
+75,Male,27.2,Heart Disease,0,No,Yes,1,1,Urban,35316
+54,Male,28.5,Kidney Disease,0,Yes,No,1,0,Rural,54105
+28,Female,26.5,None,0,No,Yes,1,1,Urban,3245
+59,Female,31.2,Heart Disease,0,No,Yes,1,1,Urban,26386
+53,Male,23.0,None,0,No,Yes,0,0,Urban,7340
+54,Female,26.0,Hypertension,1,No,No,1,0,Rural,25430
+42,Male,33.2,Diabetes,1,No,No,1,0,Rural,29846
+70,Male,25.9,Kidney Disease,0,No,Yes,1,1,Urban,25127
+59,Female,24.3,None,0,Yes,Yes,1,0,Urban,7929
+48,Female,23.4,Diabetes,0,Yes,Yes,1,1,Rural,21652
+23,Female,22.4,Kidney Disease,0,Yes,No,0,1,Urban,47092
+62,Female,29.4,None,0,No,Yes,1,0,Rural,7232
+74,Female,37.0,None,0,No,No,1,1,Urban,6560
+34,Female,25.1,None,0,No,No,1,1,Rural,3203
+43,Female,31.6,Heart Disease,0,No,No,1,1,Urban,24848
+63,Male,24.0,None,0,No,No,1,1,Rural,4620
+19,Female,28.1,None,0,No,Yes,1,0,Rural,5043
+68,Female,23.1,Hypertension,0,No,Yes,1,1,Urban,16803
+70,Male,20.3,None,0,No,Yes,1,1,Rural,5159
+38,Male,28.3,Hypertension,0,No,Yes,0,1,Rural,17499
+28,Male,22.3,None,0,Yes,Yes,1,1,Urban,5019
+66,Female,20.6,Asthma,1,Yes,No,1,1,Rural,14484
+76,Female,28.3,Hypertension,1,No,Yes,1,1,Rural,18371
+51,Male,19.0,Asthma,0,No,Yes,1,1,Urban,9450
+72,Male,28.0,None,1,No,No,0,0,Rural,7940
+22,Male,26.7,Diabetes,1,Yes,No,1,1,Urban,20531
+73,Female,28.4,Heart Disease,0,No,No,1,0,Urban,32252
+60,Male,19.9,Diabetes,0,No,Yes,1,0,Rural,28297
+34,Male,36.2,None,0,Yes,No,1,0,Rural,6536
+51,Female,25.6,Heart Disease,0,No,Yes,1,1,Urban,20868
+26,Male,24.6,Diabetes,1,No,No,1,0,Urban,28788
+26,Male,27.0,Heart Disease,0,Yes,Yes,1,1,Urban,31060
+57,Female,25.9,Heart Disease,0,No,No,0,0,Urban,44502
+60,Male,33.1,Diabetes,0,No,Yes,0,1,Urban,21743
+57,Male,19.8,None,0,No,No,1,1,Rural,5194
+20,Female,24.4,Diabetes,0,No,Yes,1,1,Urban,12682
+67,Female,28.5,None,0,No,No,1,0,Urban,6955
+47,Male,29.9,None,0,No,No,1,0,Urban,5997
+55,Female,18.9,Hypertension,0,Yes,Yes,1,1,Urban,22491
+61,Female,30.6,Kidney Disease,1,No,No,1,1,Rural,33518
+76,Female,25.7,None,0,Yes,Yes,1,0,Urban,8821
+64,Male,28.5,None,1,Yes,Yes,1,1,Rural,7005
+29,Male,30.3,Kidney Disease,0,No,No,0,1,Urban,40589
+25,Female,26.5,Heart Disease,0,No,No,1,0,Rural,29795
+48,Male,28.2,Kidney Disease,1,No,Yes,1,0,Rural,59296
+71,Female,30.3,Hypertension,0,No,No,1,0,Rural,19209
+33,Male,24.2,Kidney Disease,1,Yes,No,1,1,Rural,38286
+42,Male,28.5,Asthma,0,No,Yes,1,1,Urban,12145
+29,Male,27.7,Heart Disease,0,No,No,1,0,Urban,30031
+40,Male,26.8,None,1,No,Yes,1,1,Urban,4954
+43,Female,29.3,Heart Disease,0,No,No,1,0,Rural,30779
+31,Female,26.5,Hypertension,1,No,No,1,1,Urban,19455
+32,Male,21.7,None,0,Yes,No,1,1,Urban,3601
+65,Female,30.2,Hypertension,0,Yes,No,1,1,Urban,21682
+25,Male,30.5,None,0,Yes,Yes,1,0,Urban,6415
+56,Female,25.7,Kidney Disease,1,No,No,0,1,Rural,50081
+52,Female,29.8,None,0,No,No,1,1,Urban,5244
+34,Male,23.9,Hypertension,0,No,No,1,1,Rural,13767
+31,Male,20.4,Diabetes,0,No,No,1,1,Urban,19512
+77,Female,28.0,Diabetes,1,No,Yes,0,0,Rural,38690
+62,Female,26.9,Hypertension,0,No,No,0,1,Rural,13387
+57,Male,24.1,None,0,Yes,No,1,0,Urban,7323
+43,Male,25.0,Asthma,1,No,No,0,1,Urban,12932
+32,Female,26.5,Hypertension,1,Yes,No,1,1,Rural,17569
+73,Female,31.8,None,0,No,Yes,1,0,Urban,7854
+42,Male,26.8,Diabetes,0,No,Yes,1,1,Rural,18254
+30,Male,29.5,Heart Disease,0,No,Yes,0,0,Urban,47010
+59,Female,27.1,Diabetes,0,No,No,0,1,Rural,19913
+61,Female,26.3,None,0,Yes,No,1,1,Rural,6389
+49,Male,30.3,Hypertension,0,No,Yes,0,1,Rural,18109
+49,Female,30.9,Diabetes,0,No,Yes,0,1,Rural,19502
+46,Male,23.3,Heart Disease,0,No,No,1,0,Urban,38249
+79,Male,35.2,None,0,No,No,1,1,Rural,5756
+73,Female,24.5,Diabetes,0,Yes,Yes,1,1,Urban,21245
+61,Female,19.3,Diabetes,0,No,Yes,1,1,Urban,18979
+22,Male,19.0,Asthma,0,Yes,No,0,0,Rural,20210
+18,Male,24.3,None,0,No,Yes,1,1,Urban,2679
+31,Female,24.9,Heart Disease,1,Yes,No,1,1,Rural,43247
+73,Female,22.0,None,0,No,No,0,1,Rural,6660
+79,Male,21.8,None,0,No,Yes,0,1,Rural,6104
+54,Male,25.9,None,0,Yes,No,1,0,Rural,7227
+66,Male,26.9,Heart Disease,1,No,Yes,1,0,Rural,51357
+74,Female,21.7,Asthma,0,Yes,No,0,1,Rural,14575
+75,Female,28.7,Diabetes,0,No,No,0,0,Rural,30536
+54,Female,29.9,None,0,No,No,1,0,Urban,6347
+63,Female,25.1,Diabetes,0,No,Yes,0,0,Urban,32278
+41,Female,35.2,Heart Disease,0,No,No,0,0,Rural,35356
+42,Male,23.3,Hypertension,0,No,No,1,0,Rural,21149
+24,Male,26.7,Diabetes,0,Yes,No,0,1,Urban,21351
+70,Male,28.0,Hypertension,1,No,No,1,1,Rural,21450
+68,Male,19.7,Hypertension,0,Yes,No,1,1,Urban,13981
+51,Male,26.3,Heart Disease,0,No,No,0,1,Rural,35589
+74,Male,23.5,Diabetes,1,No,No,1,1,Urban,19555
+20,Female,23.8,Diabetes,1,No,Yes,0,1,Rural,21214
+73,Female,24.0,Heart Disease,0,No,No,1,1,Rural,32120
+64,Male,25.3,Diabetes,1,No,No,1,1,Rural,19109
+40,Female,31.7,None,0,Yes,No,0,1,Urban,6101
+79,Male,23.7,Heart Disease,0,No,Yes,1,1,Urban,27161
+34,Female,27.4,Hypertension,0,No,No,0,1,Urban,15912
+55,Male,24.5,Hypertension,0,No,No,1,1,Urban,14835
+30,Male,26.8,Hypertension,0,Yes,No,0,1,Rural,16740
+26,Male,19.9,Diabetes,0,No,No,1,1,Rural,19247
+21,Female,22.6,Hypertension,0,No,No,0,1,Urban,11208
+58,Female,26.7,None,0,No,No,1,1,Urban,4451
+73,Female,23.5,Diabetes,0,No,Yes,1,1,Urban,19705
+26,Female,24.4,Kidney Disease,0,No,No,1,1,Urban,26182
+20,Female,28.2,Heart Disease,0,No,No,1,0,Rural,29596
+22,Female,30.3,None,0,No,Yes,1,1,Urban,3059
+28,Female,25.3,Hypertension,0,No,No,0,1,Rural,15549
+32,Male,22.8,Asthma,1,Yes,Yes,1,1,Rural,18546
+55,Female,29.5,Heart Disease,0,No,No,1,0,Rural,31385
+43,Male,22.2,Hypertension,0,No,No,0,1,Rural,19518
+35,Female,23.9,None,0,Yes,Yes,1,1,Rural,4117
+34,Male,26.9,Hypertension,0,Yes,No,1,1,Rural,12497
+67,Female,12.1,Diabetes,1,No,No,1,1,Rural,24663
+46,Male,22.5,None,0,No,Yes,1,1,Urban,5125
+68,Female,24.0,None,0,No,No,1,1,Urban,4870
+51,Female,30.2,Hypertension,1,Yes,No,0,1,Urban,20808
+57,Male,19.4,Hypertension,0,No,Yes,1,0,Urban,19882
+23,Female,27.9,Asthma,0,No,Yes,1,1,Rural,13289
+41,Female,28.4,Hypertension,0,No,No,1,0,Rural,17652
+50,Male,30.4,Asthma,0,No,Yes,0,1,Rural,10912
+76,Male,27.6,None,0,No,Yes,0,1,Urban,7378
+60,Male,28.9,Heart Disease,1,No,Yes,1,1,Rural,31317
+62,Female,30.3,Hypertension,0,Yes,No,0,0,Urban,24709
+44,Female,30.7,Diabetes,0,No,No,0,1,Urban,19271
+55,Male,26.8,Heart Disease,0,Yes,Yes,1,1,Urban,32504
+62,Male,25.4,Diabetes,0,Yes,Yes,0,0,Urban,37137
+75,Female,30.2,Hypertension,0,No,No,1,0,Rural,23006
+59,Female,25.6,Kidney Disease,1,No,Yes,1,0,Urban,59768
+27,Male,23.8,Hypertension,0,Yes,Yes,1,1,Urban,17494
+56,Female,28.6,None,0,No,No,1,1,Urban,5408
+48,Male,22.8,Diabetes,0,No,Yes,1,1,Urban,14034
+19,Female,29.4,Diabetes,0,No,No,1,1,Rural,14282
+49,Male,25.0,Hypertension,0,Yes,Yes,1,1,Rural,22374
+58,Male,23.6,Heart Disease,0,No,Yes,1,1,Rural,26108
+34,Female,24.9,Diabetes,0,No,Yes,1,1,Urban,17797
+41,Male,22.5,Hypertension,0,Yes,No,1,1,Rural,16795
+62,Male,24.8,Diabetes,1,Yes,No,1,1,Rural,22474
+47,Male,26.9,Hypertension,0,No,No,1,1,Urban,13267
+24,Female,28.2,None,0,No,No,0,1,Urban,3246
+45,Male,26.2,Hypertension,0,Yes,Yes,1,1,Rural,22210
+77,Female,28.2,Kidney Disease,1,No,No,0,0,Urban,63396
+39,Female,23.2,Heart Disease,0,Yes,Yes,1,1,Urban,39396
+21,Male,28.1,None,1,No,No,1,1,Urban,2643
+21,Male,23.5,Diabetes,0,No,No,0,1,Rural,17905
+44,Female,28.0,Asthma,0,No,No,1,1,Urban,11190
+34,Male,23.6,Diabetes,0,No,No,1,0,Rural,20158
+27,Male,23.2,Heart Disease,0,No,Yes,1,1,Rural,26196
+73,Female,25.8,Diabetes,1,Yes,Yes,0,1,Urban,35814
+76,Female,23.7,Hypertension,0,No,Yes,1,1,Rural,15857
+76,Female,33.6,Diabetes,0,No,Yes,1,1,Rural,24118
+52,Male,19.2,Kidney Disease,0,No,No,1,0,Urban,44926
+46,Male,31.5,None,0,No,Yes,1,0,Rural,6495
+28,Male,24.2,None,0,No,No,1,1,Rural,2876
+49,Female,30.5,Hypertension,0,No,Yes,0,0,Rural,26865
+68,Female,25.5,Kidney Disease,0,No,Yes,0,1,Rural,36915
+21,Female,21.1,Heart Disease,1,No,Yes,1,1,Urban,39033
+34,Male,31.2,None,0,No,No,1,1,Urban,3386
+28,Female,26.4,Heart Disease,0,Yes,Yes,1,1,Rural,23342
+69,Male,27.9,Diabetes,0,No,Yes,1,1,Rural,23597
+37,Male,28.3,None,0,No,Yes,0,0,Urban,6699
+39,Male,27.7,Diabetes,0,Yes,Yes,1,1,Urban,21331
+54,Female,27.0,Asthma,0,No,No,1,1,Rural,10500
+76,Male,18.6,None,0,No,No,1,1,Urban,5108
+75,Male,23.7,Diabetes,0,No,No,0,0,Urban,25211
+77,Male,29.8,Heart Disease,0,No,Yes,1,1,Rural,35494
+52,Female,29.4,Diabetes,0,No,No,1,1,Urban,20832
+66,Female,21.0,None,0,No,Yes,1,0,Urban,7180
+32,Female,31.8,Hypertension,0,No,Yes,0,1,Urban,17304
+61,Male,28.0,Hypertension,0,No,Yes,1,1,Rural,12860
+63,Female,25.9,Hypertension,1,No,No,0,1,Urban,23941
+42,Female,27.4,Asthma,0,No,Yes,0,1,Rural,16072
+32,Female,27.8,None,0,No,No,1,0,Urban,5184
+44,Male,27.8,Diabetes,0,Yes,No,0,0,Urban,33859
+20,Female,28.4,Kidney Disease,0,No,Yes,1,1,Urban,22702
+46,Female,26.8,Hypertension,0,No,Yes,1,1,Urban,14450
+63,Male,28.8,Hypertension,0,No,Yes,1,1,Urban,12984
+32,Female,21.9,Diabetes,1,Yes,No,1,0,Rural,34807
+34,Male,25.8,Diabetes,0,No,No,0,0,Rural,23224
+79,Female,23.3,None,1,No,No,1,1,Rural,5399
+55,Male,33.2,Heart Disease,0,No,No,1,1,Rural,25496
+65,Female,23.0,Asthma,0,No,Yes,1,1,Urban,11854
+71,Male,25.9,Kidney Disease,0,No,Yes,0,1,Urban,35077
+70,Male,29.4,Hypertension,0,No,Yes,0,1,Rural,14882
+28,Male,23.4,Heart Disease,0,No,Yes,1,0,Rural,41102
+30,Male,25.5,Heart Disease,1,No,Yes,1,1,Urban,39615
+47,Male,21.3,Hypertension,0,No,No,0,1,Rural,12469
+35,Female,35.9,Asthma,0,No,No,1,0,Urban,15977
+49,Female,24.0,Hypertension,0,No,Yes,1,1,Urban,15880
+28,Female,29.1,Kidney Disease,1,No,Yes,0,1,Urban,39773
+55,Female,27.7,Heart Disease,0,Yes,No,0,0,Urban,51956
+58,Male,25.9,Diabetes,1,No,Yes,1,1,Rural,20567
+41,Female,23.7,Hypertension,0,No,No,0,1,Rural,12241
+58,Male,26.0,None,0,No,Yes,0,1,Rural,6430
+39,Female,21.4,Asthma,0,Yes,No,1,1,Rural,11430
+45,Male,28.1,Heart Disease,0,No,No,0,1,Urban,21543
+49,Female,33.1,None,0,No,Yes,0,1,Urban,4943
+67,Female,26.8,None,0,Yes,No,1,0,Urban,7904
+50,Male,17.8,Asthma,0,Yes,Yes,0,1,Urban,18648
+58,Male,24.9,Hypertension,0,Yes,No,1,1,Rural,17717
+69,Female,25.7,Asthma,0,No,No,0,0,Urban,16921
+43,Male,22.0,Kidney Disease,0,No,No,0,0,Rural,51160
+56,Female,24.9,Asthma,0,Yes,No,1,1,Rural,16081
+43,Female,30.0,None,0,Yes,No,0,1,Urban,6200
+51,Male,28.5,Diabetes,1,No,No,0,1,Rural,27835
+59,Female,31.6,Heart Disease,1,No,No,1,1,Rural,37648
+23,Female,29.7,Diabetes,0,No,Yes,0,1,Urban,19791
+26,Female,33.2,Hypertension,0,No,No,1,1,Rural,16526
+25,Male,27.4,Diabetes,0,No,Yes,1,1,Urban,15992
+25,Female,29.6,Diabetes,0,No,Yes,1,1,Urban,16058
+79,Female,28.5,None,0,No,No,0,1,Urban,7155
+64,Male,26.5,None,0,Yes,No,1,1,Rural,6545
+75,Female,29.8,Heart Disease,0,No,No,1,1,Urban,24894
+39,Male,34.3,Hypertension,0,No,No,1,1,Urban,10929
+58,Female,23.2,Hypertension,0,Yes,No,1,0,Rural,21746
+77,Female,24.5,Heart Disease,1,Yes,No,1,1,Urban,34735
+71,Male,26.8,None,0,No,No,0,1,Rural,5554
+29,Female,23.4,Diabetes,0,Yes,No,1,0,Urban,23902
+62,Female,24.1,None,0,No,No,0,1,Rural,5023
+68,Male,21.9,Diabetes,1,No,No,0,1,Urban,28487
+72,Female,23.9,Asthma,0,Yes,Yes,0,1,Urban,13377
+70,Female,25.9,Hypertension,0,Yes,No,0,1,Urban,24275
+35,Male,34.6,Diabetes,0,Yes,No,1,1,Rural,18178
+23,Female,22.3,Kidney Disease,0,No,No,1,1,Urban,20569
+49,Female,29.0,Heart Disease,0,No,No,1,1,Rural,25070
+73,Female,26.2,Hypertension,0,No,Yes,1,1,Rural,13406
+27,Male,26.5,Diabetes,0,No,Yes,1,0,Urban,21895
+68,Female,24.0,None,0,No,No,0,1,Rural,6470
+32,Male,26.8,Diabetes,1,No,No,0,1,Urban,20164
+50,Female,24.7,Heart Disease,0,No,Yes,1,0,Rural,42241
+38,Male,27.4,Heart Disease,1,No,Yes,1,1,Rural,30172
+48,Female,30.5,Diabetes,0,No,Yes,1,1,Urban,17235
+54,Male,24.9,Hypertension,0,No,No,1,1,Urban,13557
+21,Male,29.5,Heart Disease,0,No,No,1,1,Urban,29685
+77,Male,29.1,None,0,No,Yes,0,0,Urban,8723
+41,Male,29.8,Asthma,0,No,No,1,1,Urban,13014
+58,Female,37.8,Hypertension,0,No,Yes,1,1,Urban,16744
+53,Male,25.7,Hypertension,0,No,No,0,1,Urban,15385
+53,Female,24.5,None,0,No,Yes,1,1,Urban,5535
+19,Female,31.3,Diabetes,1,Yes,Yes,1,0,Urban,37339
+56,Male,27.8,Diabetes,0,No,Yes,1,0,Urban,28334
+59,Male,20.9,Hypertension,0,Yes,No,1,1,Urban,16159
+35,Female,19.8,Diabetes,0,No,No,1,1,Urban,16094
+57,Female,24.0,None,0,No,No,0,1,Rural,5920
+43,Male,28.5,Hypertension,0,No,Yes,0,1,Urban,13505
+25,Female,32.6,None,0,No,No,0,1,Urban,3428
+59,Female,19.8,Hypertension,0,No,No,1,1,Urban,14894
+61,Male,26.9,Hypertension,0,No,No,0,1,Urban,15821
+54,Male,16.7,Diabetes,0,No,No,1,1,Rural,20551
+22,Male,25.6,Kidney Disease,0,No,No,1,0,Rural,43618
+71,Male,23.1,Diabetes,0,No,Yes,1,1,Rural,23553
+77,Male,32.4,Heart Disease,0,No,Yes,1,1,Urban,28972
+56,Male,19.4,Diabetes,0,No,Yes,1,1,Urban,18732
+42,Female,23.3,Diabetes,0,No,No,1,1,Rural,15249
+34,Male,27.1,None,0,No,Yes,1,1,Rural,3563
+76,Female,22.5,None,0,Yes,Yes,1,1,Rural,7425
+52,Female,19.5,Hypertension,0,No,No,0,1,Rural,15149
+54,Female,26.1,Heart Disease,0,Yes,Yes,1,1,Rural,32433
+29,Male,25.6,None,1,No,Yes,1,0,Rural,5468
+73,Female,20.4,Asthma,0,No,Yes,1,1,Rural,13452
+48,Male,23.8,None,0,No,No,1,1,Rural,4864
+28,Male,25.4,Diabetes,0,No,No,0,1,Urban,18312
+33,Female,30.0,Hypertension,0,No,Yes,0,1,Urban,20900
+27,Female,33.8,Kidney Disease,0,No,Yes,1,0,Rural,38614
+58,Female,23.6,Diabetes,0,No,Yes,0,1,Urban,16358
+18,Male,34.8,Heart Disease,0,Yes,No,1,1,Rural,26694
+29,Male,21.0,Asthma,0,No,No,1,1,Rural,10230
+18,Female,23.0,Hypertension,0,No,No,1,0,Urban,16340
+45,Female,20.8,Heart Disease,0,No,Yes,1,1,Rural,25374
+74,Male,19.5,Hypertension,0,Yes,No,1,0,Urban,26755
+29,Female,30.8,Heart Disease,0,No,No,1,0,Rural,30124
+54,Male,28.8,None,0,No,Yes,1,1,Rural,5714
+73,Male,29.9,Diabetes,0,No,Yes,1,1,Urban,18467
+45,Female,26.7,Heart Disease,0,No,No,0,0,Urban,35301
+76,Female,30.4,Diabetes,0,No,No,0,0,Urban,30637
+78,Male,24.7,None,0,Yes,No,0,0,Rural,9141
+43,Female,24.2,Diabetes,0,No,No,1,0,Urban,20626
+46,Female,21.1,Heart Disease,1,No,No,1,0,Rural,45683
+54,Male,28.5,None,0,Yes,No,1,1,Urban,6105
+70,Male,32.9,None,0,Yes,Yes,0,1,Urban,8037
+37,Female,29.1,Asthma,0,No,Yes,1,1,Urban,9053
+70,Female,33.9,Heart Disease,1,No,No,1,0,Urban,47267
+79,Female,25.1,Heart Disease,0,No,No,1,1,Rural,20453
+51,Female,19.8,Heart Disease,0,No,No,0,0,Urban,35394
+60,Female,28.0,Hypertension,0,Yes,Yes,1,1,Rural,19270
+67,Male,27.7,Diabetes,0,Yes,No,1,1,Rural,21131
+40,Female,17.6,Heart Disease,1,No,Yes,1,1,Urban,39878
+79,Female,30.4,None,0,No,No,1,1,Rural,6612
+59,Male,21.8,Asthma,1,No,No,0,0,Rural,21824
+77,Female,27.1,Hypertension,0,Yes,No,1,0,Urban,27133
+49,Female,23.4,Kidney Disease,1,No,No,1,1,Rural,43302
+55,Female,25.2,Hypertension,0,Yes,No,1,0,Urban,21656
+51,Female,26.9,Heart Disease,1,No,Yes,0,1,Rural,34857
+18,Female,25.9,Diabetes,0,No,No,1,1,Urban,11427
+34,Male,34.0,None,1,No,No,1,1,Rural,3470
+43,Male,26.8,Hypertension,1,No,Yes,1,0,Urban,27324
+29,Female,30.2,Heart Disease,0,No,No,1,1,Rural,30106
+44,Male,26.8,None,0,No,No,1,1,Urban,4754
+50,Male,27.8,Diabetes,0,No,No,1,1,Urban,15784
+18,Female,28.6,Kidney Disease,0,Yes,No,0,1,Urban,47028
+70,Male,21.4,Diabetes,0,No,No,1,1,Urban,16592
+65,Male,22.9,Diabetes,0,No,No,1,1,Rural,17687
+45,Male,27.2,Heart Disease,0,Yes,No,0,1,Rural,25116
+19,Male,25.7,Asthma,1,No,No,1,0,Urban,17271
+65,Male,27.3,Kidney Disease,0,No,No,1,1,Urban,37019
+30,Female,27.4,Diabetes,1,Yes,Yes,1,0,Urban,37772
+58,Male,31.7,Hypertension,0,No,No,1,1,Urban,13961
+28,Male,25.0,Asthma,0,No,Yes,1,1,Rural,8480
+63,Male,29.9,Diabetes,0,No,Yes,0,1,Urban,16797
+21,Female,30.2,Diabetes,0,No,Yes,0,0,Urban,30331
+35,Male,28.3,None,1,No,No,1,1,Urban,3349
+30,Female,24.8,Heart Disease,0,Yes,Yes,1,1,Rural,38994
+28,Male,31.5,Heart Disease,1,No,Yes,0,1,Rural,33845
+18,Male,26.5,None,0,No,No,0,0,Rural,5195
+42,Female,21.9,None,0,No,Yes,1,0,Urban,6007
+38,Male,21.6,Heart Disease,0,No,No,1,0,Urban,37798
+24,Male,20.2,Hypertension,0,No,No,0,1,Rural,11286
+32,Male,22.5,Kidney Disease,0,No,Yes,1,1,Rural,38745
+42,Male,32.2,Diabetes,0,No,Yes,0,1,Urban,15816
+50,Male,23.4,Heart Disease,0,No,No,0,1,Urban,35452
+61,Female,20.7,Diabetes,1,No,Yes,0,1,Urban,30421
+55,Female,26.7,Asthma,0,No,No,1,1,Urban,13621
+63,Male,23.2,Diabetes,1,No,No,1,1,Urban,24796
+31,Male,23.2,Heart Disease,0,No,No,1,1,Urban,23996
+20,Male,35.0,None,0,No,No,1,1,Rural,2800
+38,Male,26.2,None,0,Yes,Yes,0,1,Urban,6236
+23,Female,30.5,Hypertension,0,No,No,1,1,Rural,10015
+45,Female,20.4,Diabetes,0,No,No,1,0,Urban,20612
+54,Male,19.4,Heart Disease,0,Yes,No,0,1,Rural,31407
+32,Female,35.3,Asthma,0,No,Yes,0,1,Urban,11959
+65,Female,28.9,None,0,No,Yes,1,1,Rural,6267
+40,Male,28.4,Hypertension,0,Yes,Yes,1,1,Rural,13862
+76,Female,29.4,Kidney Disease,0,No,No,1,1,Rural,28832
+60,Female,25.0,None,1,No,No,0,0,Rural,7250
+28,Female,27.6,Heart Disease,1,No,Yes,1,1,Rural,29678
+68,Female,23.0,Kidney Disease,1,Yes,No,0,1,Urban,44770
+78,Female,24.9,Asthma,0,Yes,No,1,0,Urban,17997
+21,Male,22.5,Heart Disease,1,No,Yes,1,0,Rural,48975
+44,Male,22.1,Hypertension,0,No,Yes,0,1,Rural,13363
+46,Female,26.7,Kidney Disease,0,No,Yes,1,1,Rural,29891
+33,Female,31.6,Hypertension,1,No,Yes,1,1,Urban,16320
+59,Male,32.1,Diabetes,0,No,No,0,1,Urban,24203
+66,Male,29.1,Asthma,0,Yes,No,1,0,Rural,20403
+30,Male,22.1,Kidney Disease,1,No,No,1,1,Rural,42313
+28,Male,25.1,Diabetes,1,Yes,Yes,1,1,Urban,30063
+24,Male,22.1,Diabetes,0,No,Yes,1,1,Rural,21173
+30,Female,28.2,Kidney Disease,0,Yes,No,0,1,Rural,47616
+48,Female,23.6,None,0,No,No,1,0,Rural,5858
+59,Male,27.3,Heart Disease,1,No,No,1,1,Urban,37519
+78,Female,31.6,Diabetes,0,No,Yes,1,1,Urban,20198
+18,Male,25.7,Hypertension,0,No,Yes,1,1,Rural,14381
+61,Female,26.5,Diabetes,0,Yes,Yes,1,0,Urban,27595
+76,Female,24.3,Hypertension,1,No,Yes,1,0,Rural,28899
+30,Male,30.8,Kidney Disease,0,Yes,Yes,1,1,Urban,27474
+39,Female,27.5,None,0,No,No,0,1,Rural,5125
+45,Female,23.2,Hypertension,0,No,Yes,1,1,Rural,11916
+27,Female,23.3,None,0,Yes,Yes,0,1,Urban,5599
+41,Male,30.6,Hypertension,0,No,Yes,1,1,Urban,18846
+25,Male,24.8,None,1,Yes,Yes,0,1,Urban,5544
+41,Female,21.0,Heart Disease,0,No,No,1,1,Urban,22930
+54,Female,23.2,None,0,Yes,Yes,1,0,Rural,7646
+21,Male,29.2,None,0,No,No,1,0,Rural,4676
+77,Female,23.8,Diabetes,0,Yes,Yes,1,1,Urban,17914
+56,Female,23.3,Hypertension,0,Yes,Yes,0,1,Rural,20969
+53,Female,27.1,None,0,No,Yes,0,1,Urban,4963
+27,Male,34.9,Diabetes,0,No,No,1,0,Urban,24647
+64,Male,21.0,None,1,No,No,0,1,Rural,5030
+66,Male,28.5,Hypertension,1,No,No,1,1,Urban,21265
+72,Female,27.7,Diabetes,1,No,No,0,1,Urban,28861
+38,Female,30.9,Heart Disease,0,No,No,1,0,Rural,30577
+49,Male,32.5,Diabetes,0,No,Yes,0,1,Urban,21175
+28,Female,23.8,Hypertension,0,No,Yes,1,1,Rural,13460
+78,Male,20.5,Kidney Disease,0,No,No,1,1,Urban,30265
+74,Female,27.3,Diabetes,0,No,Yes,0,1,Rural,17269
+52,Female,26.0,Heart Disease,0,No,Yes,1,1,Urban,27530
+24,Male,22.8,Asthma,0,No,No,0,1,Rural,10260
+71,Female,32.6,Heart Disease,0,Yes,No,1,1,Urban,38278
+78,Female,29.9,Heart Disease,0,Yes,No,1,1,Urban,29547
+56,Female,30.4,Heart Disease,0,No,Yes,1,0,Urban,34462
+41,Male,28.3,Diabetes,1,No,Yes,1,1,Urban,19789
+56,Male,32.5,Heart Disease,0,Yes,Yes,1,1,Rural,24925
+62,Male,21.6,Heart Disease,0,Yes,No,1,1,Urban,23098
+58,Female,23.2,None,0,No,No,1,1,Urban,4346
+56,Male,26.1,None,0,No,Yes,1,1,Rural,5733
+19,Male,22.9,Diabetes,0,No,No,0,1,Rural,13187
+77,Female,23.5,Heart Disease,0,Yes,No,1,0,Urban,38305
+38,Female,28.8,None,0,No,No,1,1,Urban,3514
+25,Female,27.3,Asthma,0,No,No,1,1,Urban,9059
+71,Male,29.3,Kidney Disease,1,No,No,0,0,Urban,63129
+61,Female,21.3,Heart Disease,0,No,No,1,1,Urban,31439
+23,Female,21.1,None,0,Yes,Yes,1,0,Urban,6033
+19,Male,32.7,Diabetes,0,No,No,0,1,Rural,13481
+47,Male,27.7,None,0,No,Yes,1,1,Rural,5331
+69,Male,26.4,Diabetes,1,No,Yes,0,0,Urban,38242
+53,Female,23.3,Kidney Disease,0,No,Yes,0,0,Urban,56099
+22,Male,28.2,Kidney Disease,0,No,No,1,0,Urban,43696
+74,Female,22.3,None,0,No,No,1,0,Urban,7119
+72,Female,22.3,None,0,No,Yes,1,1,Rural,6419
+74,Male,26.3,Hypertension,0,No,Yes,1,1,Urban,17199
+72,Male,23.1,None,1,No,Yes,0,0,Urban,8293
+29,Male,30.9,Diabetes,0,Yes,No,1,1,Urban,19327
+25,Male,23.9,Heart Disease,0,Yes,Yes,1,1,Rural,30917
+57,Male,20.4,Hypertension,0,No,Yes,1,1,Rural,19340
+71,Male,30.9,None,0,No,No,1,1,Rural,5227
+38,Female,26.6,Diabetes,1,No,Yes,1,1,Rural,19588
+37,Male,23.0,Diabetes,0,No,Yes,0,1,Rural,18665
+56,Female,26.9,Heart Disease,0,No,Yes,0,1,Urban,29482
+49,Female,26.5,Asthma,0,No,No,1,1,Rural,8795
+55,Male,25.4,Kidney Disease,0,No,No,1,0,Rural,45262
+69,Female,21.7,None,0,Yes,No,1,0,Rural,7851
+19,Male,22.4,Diabetes,0,No,No,1,1,Urban,11372
+58,Female,18.7,None,0,No,No,1,1,Urban,5211
+69,Male,28.0,Hypertension,0,No,No,0,1,Rural,13770
+79,Male,34.6,Hypertension,0,Yes,No,1,1,Urban,14978
+72,Male,21.5,Diabetes,0,No,Yes,1,1,Urban,18165
+23,Male,26.0,Kidney Disease,1,No,Yes,1,0,Rural,57980
+39,Female,29.4,Diabetes,0,No,No,1,1,Urban,12582
+77,Female,24.5,Kidney Disease,0,No,Yes,0,1,Urban,37335
+64,Male,27.9,Kidney Disease,1,No,No,1,1,Rural,44187
+66,Female,26.3,Heart Disease,1,No,No,1,1,Urban,37839
+52,Female,25.6,Diabetes,1,Yes,No,0,1,Urban,32438
+47,Male,28.3,None,1,No,Yes,0,1,Urban,5949
+69,Male,28.4,Hypertension,0,Yes,Yes,1,1,Urban,15312
+31,Female,25.3,None,0,No,No,1,1,Urban,3059
+19,Male,23.0,Kidney Disease,0,Yes,No,1,0,Rural,41390
+44,Male,21.9,Kidney Disease,0,No,Yes,0,1,Urban,33607
+37,Female,31.3,Heart Disease,0,No,No,0,1,Urban,28139
+35,Male,30.3,None,0,Yes,Yes,1,0,Rural,6909
+42,Female,27.9,Diabetes,0,No,Yes,1,1,Urban,13887
+78,Female,35.9,Kidney Disease,0,No,No,1,0,Rural,37727
+71,Male,24.8,Kidney Disease,0,No,No,1,1,Rural,23044
+63,Female,26.0,Diabetes,0,No,No,0,1,Urban,20080
+58,Male,20.8,Diabetes,0,No,Yes,0,1,Rural,19649
+23,Male,24.5,None,0,No,Yes,1,1,Urban,4035
+25,Male,22.0,Heart Disease,0,No,No,1,1,Rural,23660
+38,Female,26.2,Diabetes,0,Yes,No,1,1,Urban,18076
+49,Male,28.1,None,1,Yes,No,1,0,Rural,7043
+49,Female,28.6,Heart Disease,1,No,Yes,1,1,Urban,30758
+37,Male,26.6,Heart Disease,0,Yes,Yes,1,1,Urban,29648
+35,Male,28.9,Hypertension,1,No,No,1,1,Rural,14887
+49,Female,24.2,Heart Disease,1,Yes,Yes,1,1,Urban,36026
+46,Male,26.2,Heart Disease,0,No,No,1,0,Rural,30836
+40,Male,25.1,Asthma,0,No,No,1,1,Urban,10903
+36,Female,30.6,None,1,Yes,Yes,1,0,Rural,6968
+51,Female,17.9,Diabetes,1,Yes,No,0,1,Urban,32157
+27,Male,25.7,Hypertension,0,No,No,1,0,Rural,20471
+67,Male,20.1,None,1,Yes,Yes,1,0,Rural,8203
+78,Female,20.0,Diabetes,0,Yes,No,1,1,Urban,21450
+40,Female,29.5,None,0,No,No,1,1,Urban,4635
+36,Female,23.2,Asthma,1,Yes,No,0,1,Urban,19470
+24,Male,29.4,Asthma,0,Yes,No,0,0,Rural,20622
+33,Female,29.7,Diabetes,1,No,Yes,1,1,Rural,25811
+21,Male,32.1,None,0,No,Yes,1,1,Urban,4163
+56,Female,23.1,Diabetes,0,No,No,1,0,Urban,25743
+77,Male,23.0,Hypertension,1,No,Yes,0,0,Urban,32540
+69,Male,28.0,Hypertension,0,No,No,0,0,Rural,25730
+55,Female,21.9,None,0,No,Yes,1,0,Rural,6657
+56,Male,29.5,Kidney Disease,0,No,No,1,1,Rural,27835
+79,Female,28.7,Asthma,0,Yes,No,0,1,Rural,19193
+78,Male,27.5,Hypertension,0,No,No,0,1,Urban,14205
+39,Male,17.3,Kidney Disease,0,No,Yes,1,1,Rural,31019
+31,Female,24.4,Diabetes,0,Yes,No,1,0,Rural,29432
+22,Male,21.4,None,0,No,Yes,1,0,Urban,4992
+79,Female,23.7,Diabetes,0,No,No,1,1,Urban,17111
+38,Male,24.4,Heart Disease,0,No,Yes,1,0,Urban,33382
+71,Male,27.5,Hypertension,1,No,Yes,1,1,Urban,18097
+40,Male,31.5,None,0,No,Yes,0,1,Urban,5695
+75,Male,27.8,None,0,No,No,0,1,Urban,6934
+30,Male,21.2,Hypertension,0,No,No,1,1,Urban,10086
